@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+</p>
 <table>
   <tr>
     <td align="left" width="70%">
@@ -16,7 +18,9 @@
   </td>
 </tr>
 </table>
+
 ---
+
 <div >
 <br/>
 <p align="center">
@@ -33,7 +37,9 @@
   </a>
 </p>
 </div>
+
 ---
+
 <div style="text-align: center;" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joanadarknes/Joanadarknes/blob/output/github-contribution-grid-snake-dark.svg" />
