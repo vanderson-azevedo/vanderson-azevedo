@@ -2,10 +2,10 @@
   <tr>
     <td align="left" width="70%">
       <p align="center">
-        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&lines=VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
+        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&lines=<+/+dev+>+VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
       </p>
       <p align="center">
-        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Bem+Vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
       </p>
 
   [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=maildotru&logoColor=abd200)](mailto:vandersonsm.azevedo@gmail.com)
@@ -19,10 +19,6 @@
   </td>
 </tr>
 </table>
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanderson-azevedo&theme=merko&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -54,7 +50,7 @@
 ---
 
 <details open> 
-  <summary><h2>📗 My Top Open Source Projects</h2></summary>
+  <summary><h2>📗 Meus projetos de código aberto</h2></summary>
     <p align="left">
       <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true" alt="readme-typing-svg"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
