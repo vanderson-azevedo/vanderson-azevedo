@@ -38,12 +38,12 @@
 <div align="center">
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko&locale=pt-br&hide_rank=true&custom_title=Estatísticas++de+Vanderson+Azevedo&text_bold=true"
+    src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko&locale=pt-br&hide_rank=true&custom_title=Estatísticas++de+Vanderson+Azevedo"
   />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br&text_bold=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br"
   />
 </div>
 
@@ -52,9 +52,9 @@
 <details open> 
   <summary><h2>📗 Meus projetos de código aberto</h2></summary>
     <p align="left">
-      <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true&custom_title=JobPulse&text_bold=true"></a>
+      <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true&custom_title=FiveM+Crime+Map&text_bold=true"></a>
+      <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true"></a>
     </p>
   <a href="https://github.com/vanderson-azevedo?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
