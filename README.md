@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/ortegaerre-000?style=for-the-badge&logo=discord&logoColor=abd200)
+  [![Discord](https://img.shields.io/badge/ortegaerre-000?style=for-the-badge&logo=discord&logoColor=abd200)]
   [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=maildotru&logoColor=abd200)](mailto:vandersonsm.azevedo@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=abd200)](https://www.linkedin.com/in/vanderson-azevedo/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=abd200)](https://www.instagram.com/din.azevedo)
