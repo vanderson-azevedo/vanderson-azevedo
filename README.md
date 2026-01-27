@@ -30,13 +30,14 @@
 
   <h3>Connect with me!</h3>
 
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:joanadarknes2233@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/joanadarc2233/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/ops_xoana/)
+  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
+  [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
     </td>
 
   <td align="right" width="90%">
-    <img height="190px" src="./study.gif">
+    <img height="190px" src="./gifprofile.gif">
   </td>
 </tr>
 </table>
