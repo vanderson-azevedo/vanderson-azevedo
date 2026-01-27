@@ -24,12 +24,14 @@
 <div align="center">
   <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&repeat=false&width=435&lines=%3C+%2F+DEV+%3E+VANDERSON+AZEVEDO"></a>
   <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Bem+Vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-</div>
 
   [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=maildotru&logoColor=abd200)](mailto:vandersonsm.azevedo@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=abd200)](https://www.linkedin.com/in/vanderson-azevedo/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=abd200)](https://www.instagram.com/din.azevedo)
   [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=abd200)](https://systemartins.com.br)
+</div>
+
+
 
 ---
 
