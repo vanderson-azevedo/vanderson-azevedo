@@ -2,10 +2,10 @@
   <tr>
     <td align="left" width="70%">
       <p align="center">
-        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&lines=VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
+        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&lines=VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
       </p>
       <p align="center">
-        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
       </p>
 
   <h3>Connect with me!</h3>
