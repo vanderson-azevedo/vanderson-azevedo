@@ -38,12 +38,12 @@
 <div align="center">
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko&locale=pt-br&hide_rank=true&custom_title=Estatísticas++de+Vanderson+Azevedo"
+    src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko&locale=pt-br&hide_rank=true&custom_title=Estatísticas++de+Vanderson+Azevedo&text_bold=true"
   />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br&text_bold=true"
   />
 </div>
 
