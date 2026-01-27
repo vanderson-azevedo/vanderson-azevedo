@@ -2,7 +2,8 @@
   <tr>
     <td align="left" width="70%">
       <p align="center">
-        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&lines=<+/+dev+>+VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
+        <!-- <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&lines=<+/+dev+>+VANDERSON+AZEVEDO" alt="Typing SVG" /></a> -->
+        <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&repeat=false&width=435&lines=%3C+%2F+DEV+%3E+VANDERSON+AZEVEDO"></a>
       </p>
       <p align="center">
         <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Bem+Vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
@@ -19,6 +20,11 @@
   </td>
 </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABD200&repeat=false&width=435&lines=%3C+%2F+DEV+%3E+VANDERSON+AZEVEDO"></a>
+  <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Bem+Vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
+</div>
 
 ---
 
