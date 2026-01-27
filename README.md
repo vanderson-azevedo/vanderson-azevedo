@@ -8,10 +8,10 @@
         <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
       </p>
 
-  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
-  [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=systemartinswhite&logoColor=3f8174)](https://systemartins.com.br)
+  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=abd200)](mailto:vandersonsm.azevedo@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=abd200)](https://www.linkedin.com/in/vanderson-azevedo/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=abd200)](https://www.instagram.com/din.azevedo)
+  [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=abd200)](https://systemartins.com.br)
     </td>
 
   <td align="right" width="30%">
