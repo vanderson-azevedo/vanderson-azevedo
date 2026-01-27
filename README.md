@@ -44,6 +44,7 @@
     height="180px"
     src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko"
   />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <img
     height="180px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko"
