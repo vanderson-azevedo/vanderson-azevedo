@@ -8,8 +8,6 @@
         <a href="https://github.com/vanderson-azevedo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
       </p>
 
-  <h3>Connect with me!</h3>
-
   [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
