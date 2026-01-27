@@ -57,9 +57,9 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
     <p align="left">
-      <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
+      <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true" alt="readme-typing-svg"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&hide_border=true&show_icons=true" alt="readme-typing-svg"></a>
+      <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true" alt="readme-typing-svg"></a>
     </p>
   <a href="https://github.com/vanderson-azevedo?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
