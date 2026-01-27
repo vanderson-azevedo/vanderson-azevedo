@@ -1,26 +1,6 @@
 <table>
   <tr>
-    <td align="right">
-      <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&lines=VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
-      </p>
-      <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&width=435&lines=Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-      </p>
-  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
-  [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
-    </td>
-    <td align="right" width="90%">
-      <img height="190px" src="./gifprofile.gif">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="left" width="60%">
+    <td align="left" width="70%">
       <p align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&lines=VANDERSON+AZEVEDO" alt="Typing SVG" /></a>
       </p>
@@ -36,7 +16,7 @@
   [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
     </td>
 
-  <td align="right" width="90%">
+  <td align="right" width="30%">
     <img height="190px" src="./gifprofile.gif">
   </td>
 </tr>
