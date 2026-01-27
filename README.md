@@ -22,12 +22,16 @@
 
 <div >
 <br/>
-<img 
-  alt="Top Langs" 
-  height="180em"
-  width="350em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9"
-/>
+<p align="center">
+  <img
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&layout=compact&theme=tokyonight&custom_title=Linguagens"
+  />
+</p>
 
 </div>
 
