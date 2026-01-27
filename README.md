@@ -15,11 +15,7 @@
   </td>
 </tr>
 </table>
-
-### 📊 Estatísticas
-
 ---
-
 <div >
 <br/>
 <p align="center">
@@ -31,12 +27,12 @@
     height="180px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&layout=compact&theme=merko&custom_title=Linguagens"
   />
+  <a href="https://github.com/vanderson-azevedo/JobPulse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse" />
+  </a>
 </p>
-
 </div>
-
 ---
-
 <div style="text-align: center;" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joanadarknes/Joanadarknes/blob/output/github-contribution-grid-snake-dark.svg" />
