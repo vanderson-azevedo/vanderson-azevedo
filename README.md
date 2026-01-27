@@ -46,7 +46,7 @@
   />
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&layout=compact&theme=merko&custom_title=Linguagens"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&custom_title=Linguagens"
   />
 </p>
 </div>
