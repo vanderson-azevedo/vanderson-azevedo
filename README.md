@@ -22,6 +22,10 @@
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vanderson-azevedo&theme=merko&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
