@@ -12,7 +12,7 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
   [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
     </td>
-    <td align="right">
+    <td align="right" width="90%">
       <img height="190px" src="./gifprofile.gif">
     </td>
   </tr>
