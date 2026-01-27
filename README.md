@@ -59,6 +59,7 @@
       <a href="https://github.com/vanderson-azevedo/JobPulse">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&hide_border=true&show_icons=true" alt="readme-typing-svg">
       </a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://github.com/vanderson-azevedo/fivem-crime-map">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&hide_border=true&show_icons=true" alt="readme-typing-svg">
       </a>
