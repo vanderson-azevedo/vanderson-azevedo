@@ -11,6 +11,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=abd200)](https://www.linkedin.com/in/vanderson-azevedo/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=abd200)](https://www.instagram.com/din.azevedo)
   [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=abd200)](https://systemartins.com.br)
+
+  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-8A221C?style=for-the-badge&logo=redis&logoColor=white) 
   
   
 </div>
