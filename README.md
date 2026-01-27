@@ -55,7 +55,7 @@
 ---
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📗 My Top Open Source Projects</h2></summary>
     <p align="left">
       <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true" alt="readme-typing-svg"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
