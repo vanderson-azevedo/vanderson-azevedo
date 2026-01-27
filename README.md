@@ -2,13 +2,11 @@
   <tr>
     <td align="left" width="70%">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F8174&width=435&lines=Seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
-
-  <h3>Entre em contato!</h3>
-
-  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
-  [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
+        <h3>Entre em contato!</h3>
+        [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=3f8174)](mailto:vandersonsm.azevedo@gmail.com)
+        [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3f8174)](https://www.linkedin.com/in/vanderson-azevedo/)
+        [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=3f8174)](https://www.instagram.com/din.azevedo)
+        [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=3f8174)](https://systemartins.com.br)
     </td>
 
   <td align="right" width="30%">
@@ -16,6 +14,15 @@
   </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/vanderson-azevedo?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vanderson-azevedo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/vanderson-azevedo?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vanderson-azevedo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/vanderson-azevedo/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/vanderson-azevedo-profile-views"/></a>
+</p>
 
 ### 📊 Estatísticas
 
