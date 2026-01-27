@@ -39,9 +39,7 @@
 
 ---
 
-<div >
-<br/>
-<p align="center">
+<div align="center">
   <img
     height="180px"
     src="https://github-readme-stats.vercel.app/api?username=vanderson-azevedo&show_icons=true&theme=merko"
@@ -51,7 +49,6 @@
     height="180px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko"
   />
-</p>
 </div>
 
 ---
