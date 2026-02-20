@@ -65,7 +65,7 @@
   />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanderson-azevedo&theme=merko&locale=pt-br"
   />
 </div>
 
