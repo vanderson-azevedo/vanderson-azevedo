@@ -75,9 +75,9 @@
   <summary><h2>📗 Meus projetos de código aberto</h2></summary>
     <p align="left">
       <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true"></a>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
+      &#8287;&#8287;&#8287;
       <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true"></a>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
+      &#8287;&#8287;&#8287;
       <a href="https://github.com/vanderson-azevedo/HD2-Macro-Pad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=HD2-Macro-Pad&theme=merko&show_icons=true"></a>
     </p>
   <a href="https://github.com/vanderson-azevedo?tab=repositories&sort=stargazers">
