@@ -77,6 +77,8 @@
       <a href="https://github.com/vanderson-azevedo/JobPulse"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=JobPulse&theme=merko&show_icons=true"></a>
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://github.com/vanderson-azevedo/fivem-crime-map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true"></a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a href="https://github.com/vanderson-azevedo/HD2-Macro-Pad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vanderson-azevedo&repo=fivem-crime-map&theme=merko&show_icons=true"></a>
     </p>
   <a href="https://github.com/vanderson-azevedo?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
